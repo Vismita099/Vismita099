@@ -11,9 +11,10 @@
 - **Total Commits in 2025**: ![GitHub Commit Count](https://img.shields.io/github/commit-activity/y/Vismita099/Portfolio?color=blue&label=Commits&logo=github)
 
 ### Languages I Frequently Use:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vismita099&layout=compact&theme=radical&hide_border=true)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vismita099&layout=compact&theme=radical&hide_border=true)](https://github.com/Vismita099)
 
 [![](https://github-readme-stats.vercel.app/api?username=Vismita099&layout=compact&theme=radical&hide_border=true)](https://github.com/Vismita099)
+
 
 <p align="left" ><img src="https://komarev.com/ghpvc/?username=Vismita099&color=green&style=flat-square" alt="Vismita099"></p>
 
