@@ -7,12 +7,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vismita099&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Contribution Highlights:
-- **Total Commits in 2025**: ![GitHub Commit Count](https://img.shields.io/github/commit-activity/y/Vismita099/Portfolio?color=blue&label=Commits&logo=github)
 
 ### Languages I Frequently Use:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vismita099&layout=compact&theme=radical&hide_border=true)](https://github.com/Vismita099)
 
+
+### My Github Stats
 [![](https://github-readme-stats.vercel.app/api?username=Vismita099&layout=compact&theme=radical&hide_border=true)](https://github.com/Vismita099)
 
 
